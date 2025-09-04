@@ -11,9 +11,9 @@ Hash calculator, XOR, and random number generators are also upported by CryptoBo
 
 # Exceute CryptoBox
 <img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/01_DES_TDES.png" width =250> <img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/02_AES.png" width =250>
-<img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/03_RSA_gen.png" width =250> <img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/04_RSA_enc.png" width =250>
-<img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/05_hash.png" width =250> <img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/06_XOR.png" width =250>
-<img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/07_RNG_gen.png" width =250> <img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/08_PWD_gen.png" width =250>
+<img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/03_RSA_gen.png" width =250> <img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/04_RSA_import.png" width =250> <img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/05_RSA_enc.png" width =250>
+<img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/06_hash.png" width =250> <img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/07_XOR.png" width =250>
+<img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/07_RNG_gen.png" width =250> <img src="https://github.com/xnigel/CryptoBox_vPy3.x/blob/main/demo/09_PWD_gen.png" width =250>
 
 # How to setup and use
 To execute the CryptBox, a bunch of Python libraries need to be installed. Follow the commands below to get it done.
