@@ -44,6 +44,7 @@ Simply download the CryptoBox.exe executable file from "dist" folder and execute
 When you are going to modify the original py file and convert it into exe format executable, you may need to perform the following commands.
 ```
 sudo apt-get install pyinstaller
+pip3 install pyinstaller
 ```
 
 Then go to the *.py directory:
